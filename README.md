@@ -4,6 +4,15 @@
 - 📫 I am a student of Computer Science Engineering at VIT Vellore, batch of 2022.
 - 🔭 I’m currently working on DevOps and Cloud Computing.
 - 🌱 I’m currently learning Golang, Docker, Kubernetes and CircleCI.
+
+My skills:
+-> Programming Languages: Java, C, Python, Golang.
+-> Web: Javascript, PHP, HTML, CSS.
+-> Database: MySQL., PostgreSQL
+-> Cloud: AWS. 
+-> DevOps: Docker, Kubernetes, CircleCI
+-> Others: Git, Tableau.
+
 <!--
 **ShaunakSensarma/ShaunakSensarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
