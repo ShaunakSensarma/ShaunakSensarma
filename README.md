@@ -1,8 +1,7 @@
 ### Hi there 👋
-
--Currently, I am working as an R&D Intern at Hewlett Packard Enterprise(HPE). My main areas of interest lies in Cloud Computing, Full Stack Development and Data Mining. 
--I am a student of Computer Science Engineering at VIT Vellore.
-
+ 
+- 😄 Currently, I am working as an R&D Intern at Hewlett Packard Enterprise(HPE). My main areas of interest lies in Cloud Computing, Full Stack Development and Data Mining.
+- 📫 I am a student of Computer Science Engineering at VIT Vellore.
 - 🔭 I’m currently working on DevOps and Cloud Computing.
 - 🌱 I’m currently learning Golang, Docker, Kubernetes and CircleCI.
 <!--
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: ...
 -->
