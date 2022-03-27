@@ -5,13 +5,13 @@
 - 🔭 I’m currently working on DevOps and Cloud Computing.
 - 🌱 I’m currently learning Golang, Docker, Kubernetes and CircleCI.
 
-My skills:
--> Programming Languages: Java, C, Python, Golang.
--> Web: Javascript, PHP, HTML, CSS.
--> Database: MySQL., PostgreSQL
--> Cloud: AWS. 
--> DevOps: Docker, Kubernetes, CircleCI
--> Others: Git, Tableau.
+My skills: </br>
+- Programming Languages: Java, C, Python, Golang. </br>
+- Web: Javascript, PHP, HTML, CSS.
+- Database: MySQL., PostgreSQL
+- Cloud: AWS. 
+- DevOps: Docker, Kubernetes, CircleCI
+- Others: Git, Tableau.
 
 <!--
 **ShaunakSensarma/ShaunakSensarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
