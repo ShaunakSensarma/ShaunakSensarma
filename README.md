@@ -1,17 +1,16 @@
 ### Hi there 👋
  
-- 😄 Currently, I am working as an **R&D Intern** at **Hewlett Packard Enterprise**(HPE). My main areas of interest lies in Cloud Computing, Full Stack Development and Data Mining.
-- 📫 I am a student of Computer Science Engineering at VIT Vellore, batch of 2022.
-- 🔭 I’m currently working on DevOps and Cloud Computing.
-- 🌱 I’m currently learning Golang, Docker, Kubernetes and CircleCI.
+- 😄 Currently, I am working as an **Systems/Software Engineer** at **Hewlett Packard Enterprise**(HPE). My main areas of interest lie in Backend Development, web mining, and QA Automation.
+- 📫 Graduated with bachelor of technology in Computer Science engineering from VIT Vellore, batch of 2022.
+- 🔭 I’m currently working on Cloud backend development.
+- 🌱 I’m currently learning Golang and GraphQL.
 
 My skills: </br>
-- Programming Languages: Java, C, Python, Golang. </br>
-- Web: Javascript, PHP, HTML, CSS.
-- Database: MySQL., PostgreSQL
+- Programming Languages: Java, Python, Golang. </br>
+- Database: MySQL, MongoDB
 - Cloud: AWS. 
-- DevOps: Docker, Kubernetes, CircleCI
-- Others: Git, Tableau.
+- DevOps: CircleCI
+- Others: Robot Framework, GraphQL
 
 <!--
 **ShaunakSensarma/ShaunakSensarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
