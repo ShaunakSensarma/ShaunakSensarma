@@ -9,7 +9,7 @@ My skills: </br>
 - Programming Languages: Java, Python, Golang. </br>
 - Database: MySQL, MongoDB
 - Cloud: AWS. 
-- DevOps: CircleCI
+- DevOps: Jenkins, Ansible, Groovy
 - Others: Robot Framework, GraphQL
 
 <!--
