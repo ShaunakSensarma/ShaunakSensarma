@@ -1,8 +1,8 @@
 ### Hi there 👋
  
-- 😄 Currently, I am working as an **Systems/Software Engineer** at **Hewlett Packard Enterprise**(HPE). My main areas of interest lie in Backend Development, web mining, and QA Automation.
+- 😄 Currently, I am working as an **Systems/Software Engineer** at **Hewlett Packard Enterprise**(HPE). My main areas of interest lie in Backend Development and data science witn keen interest in machine learning algorithms.
 - 📫 Graduated with bachelor of technology in Computer Science engineering from VIT Vellore, batch of 2022.
-- 🔭 I’m currently working on Cloud backend development.
+- 🔭 I’m currently working on Big Data and Machine Learning.
 - 🌱 I’m currently learning Golang and GraphQL.
 
 My skills: </br>
